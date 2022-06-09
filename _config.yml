@@ -6,13 +6,14 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
+title: Home
   
 url: "https://soergelm.github.io/" 
 
 author:
   name: "Mireille Soergel"
   avatar: "Mireille.JPG"
-  bio: # "PhD Student in Dijon" # Note: Markdown is allowed
+  bio:  "" # Note: Markdown is allowed
   location: # "Dijon, France"
   email            : "mireille.soergel at u-bourgogne.fr"
   uri              :
