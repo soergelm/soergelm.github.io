@@ -7,14 +7,14 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   
-url: "https://mtpsemdoc.github.io/" 
+url: "https://soergelm.github.io/" 
 
 author:
-  name: "Your name"
-  avatar: "my_avatar.png"
-  bio: "PhD Student in ???" # Note: Markdown is allowed
-  location: "Montpellier, France"
-  email            : "myemal@domain.fr"
+  name: "Mireille Soergel"
+  avatar: "Mireille.JPG"
+  bio: # "PhD Student in Dijon" # Note: Markdown is allowed
+  location: # "Dijon, France"
+  email            : "mireille.soergel at u-bourgogne.fr"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -40,6 +40,6 @@ author:
   xing             :
   youtube          : # maybe...
   links:
-    - label: "Reddit"
-      icon: "fab fa-fw fa-reddit"
-      url: "https://www.reddit.com/"
+    - label: # "Reddit"
+      icon: # "fab fa-fw fa-reddit"
+      url: # "https://www.reddit.com/"
